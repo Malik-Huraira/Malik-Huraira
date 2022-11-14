@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malik-Huraira
 - 👀 I’m interested in Web Technology 
 - 🌱 I’m currently learning Web,DSA,Data base system 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React Project (Abbott console).
 - 📫 How to reach me malikhurara123@gmail.com
 
 <!---
